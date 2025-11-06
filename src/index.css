@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #3BB247; /* tu color verde principal */
+}
